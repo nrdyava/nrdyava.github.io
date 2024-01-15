@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Columbia University
-**Degree:** Master of Science in Computer Science (Track: Machine Learning)
+**Degree:** Master of Science in Computer Science (Track: Machine Learning) (Aug 2023 - Dec 2024)
 ### Coursework
 
 | Fall 2023 | Spring 2024 |
@@ -23,9 +23,7 @@ redirect_from:
 
 
 ## Indian Institute of Technology Madras
-Aug 2017 - May 2022
-
-**Degree:** Dual Degree: M.Tech. in Data Science & B.Tech. in Mechanical Engineering
+**Degree:** Dual Degree: M.Tech. in Data Science & B.Tech. in Mechanical Engineering (Aug 2017 - May 2022)
 
 **Thesis:** Pattern Mining to Identify Front Runners in Securities Markets
 ### Coursework
