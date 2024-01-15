@@ -24,6 +24,7 @@ redirect_from:
 
 ## Indian Institute of Technology Madras
 **Degree:** Dual Degree: M.Tech. in Data Science & B.Tech. in Mechanical Engineering
+
 **Thesis:** Pattern Mining to Identify Front Runners in Securities Markets
 ### Coursework
 
