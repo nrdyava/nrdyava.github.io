@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/cvc.jpeg'>"
+title: "A Cloud Based Video Conferencing Application"
+excerpt: "A cloud based video conferencing application built using open-vidu library.<br/><img src='/images/cvc.jpeg'>"
 collection: projects
 ---
 
