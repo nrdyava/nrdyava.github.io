@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Columbia University
+Degree: Master of Science in Computer Science
 
 Education
 ======
