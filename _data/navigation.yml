@@ -10,7 +10,7 @@ main:
     url: /researchexp/
 
   - title: "Projects"
-    url: /researchexp/
+    url: /projects/
   
   - title: "Skills"
     url: /skills/
