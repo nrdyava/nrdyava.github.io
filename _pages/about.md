@@ -10,6 +10,19 @@ redirect_from:
 
 Like much of life itself, this website is under construction
 
+
+Updates
+======
+* **May 2021:** Awarded the Victor Lesser Graduate Scholarship in Artificial Intelligence.
+* **Aug 2020:** Started my Ph.D. at UMass Amherst.
+* **Sep 2019:** Started working as a Researcher at the National University of Singapore.
+* **July 2018:** Started working as a software engineer at Symantec in the Big Data Team.
+* **July 2018:** Presented my first conference paper at 2018 FUZZ-IEEE, Rio.
+* **May 2018:** Graduated from IIT Guwahati.
+
+
+Contact me at `naveen.dyava@columbia.edu`
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
