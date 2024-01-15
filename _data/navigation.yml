@@ -14,9 +14,6 @@ main:
   
   - title: "Skills"
     url: /skills/
-    
-  - title: "Portfolio"
-    url: /portfolio/
 
   - title: "Guide"
     url: /markdown/
