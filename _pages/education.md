@@ -18,55 +18,19 @@ redirect_from:
 | Algorithms   | Reinforcement Learning  |
 | Databases   | Computer Vision 2   |
 | Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
-| Cloud Computing & Big Data   | Advanced Spoken Language Processing   |
+| Cloud Computing & Big Data   | Advanced Topics in Spoken Language Processing   |
 
 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Indian Institute of Technology Madras
+**Degree:** Dual Degree: M.Tech. in Data Science & B.Tech. in Mechanical Engineering
+Thesis: Pattern Mining to Identify Front Runners in Securities Markets
+### Coursework
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+| Fall 2023 | Spring 2024 |
+|--------|:-------:|
+| Algorithms   | Reinforcement Learning  |
+| Databases   | Computer Vision 2   |
+| Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
+| Cloud Computing & Big Data   | Advanced Topics in Spoken Language Processing   |
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
