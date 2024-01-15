@@ -3,6 +3,18 @@ main:
   - title: "Education"
     url: /education/
 
+  - title: "Work Experience"
+    url: /workexp/
+  
+  - title: "Research Experience"
+    url: /researchexp/
+
+  - title: "Projects"
+    url: /researchexp/
+  
+  - title: "Skills"
+    url: /skills/
+
   - title: "Publications"
     url: /publications/
 
