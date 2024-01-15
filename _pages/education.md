@@ -24,6 +24,7 @@ redirect_from:
 
 ## Indian Institute of Technology Madras
 Aug 2017 - May 2022
+
 **Degree:** Dual Degree: M.Tech. in Data Science & B.Tech. in Mechanical Engineering
 
 **Thesis:** Pattern Mining to Identify Front Runners in Securities Markets
