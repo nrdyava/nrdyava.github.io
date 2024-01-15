@@ -28,8 +28,10 @@ Thesis: Pattern Mining to Identify Front Runners in Securities Markets
 ### Coursework
 
 |:--------:|:-------:|
-| Algorithms   | Reinforcement Learning  |
-| Databases   | Computer Vision 2   |
-| Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
-| Cloud Computing & Big Data   | Advanced Topics in Spoken Language Processing   |
+| Programming in C   | Probability, Statistics & Stochastic Process  |  Operations Research  |
+| Deep Learning   | Differential Equations   |  Principles of Economics  |
+| Pattern Recognition & Machine Learning   | Series & Matrices   |  Microeconomics  |
+| Concepts in Statistical Learning Theory   | Functions of Several Variables   |  Data Analytics  |
+| Big Data Lab   | Statistical Design & Analysis of Experiments   |  Data Analytics Lab  |
+|    | Mathematical Foundations of Data Science	   |    |
 
