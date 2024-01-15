@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Columbia University
-
 **Degree:** Master of Science in Computer Science (Track: Machine Learning)
-
 #### Coursework
 
 | Fall 2023 | Spring 2024 |
