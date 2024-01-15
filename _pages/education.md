@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* ## Columbia University
+## Columbia University
 **Degree:** Master of Science in Computer Science (Track: Machine Learning)
 ### Coursework
 
