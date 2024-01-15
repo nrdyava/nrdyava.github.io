@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Naveen Reddy Dyava"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
