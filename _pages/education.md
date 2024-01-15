@@ -14,7 +14,7 @@ redirect_from:
 ### Coursework
 
 | Fall 2023 | Spring 2024 |
-|:--------:|:-------:|
+|:--------|:-------|
 | Algorithms   | Reinforcement Learning  |
 | Databases   | Computer Vision 2   |
 | Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
@@ -27,7 +27,6 @@ redirect_from:
 Thesis: Pattern Mining to Identify Front Runners in Securities Markets
 ### Coursework
 
-|:--------:|:-------:|
 | Programming in C   | Probability, Statistics & Stochastic Process  |  Operations Research  |
 | Deep Learning   | Differential Equations   |  Principles of Economics  |
 | Pattern Recognition & Machine Learning   | Series & Matrices   |  Microeconomics  |
