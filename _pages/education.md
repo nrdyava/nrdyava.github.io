@@ -10,7 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## Columbia University
-Degree: Master of Science in Computer Science
+
+Degree: Master of Science in Computer Science (Track: Machine Learning)
+
+### Coursework
+
+| Fall 2023 | Spring 2024 |
+|:--------|:-------:|
+| Algorithms   | Reinforcement Learning  |
+| Databases   | Computer Vision 2   |
+|-------------------|
+| Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
+| Cloud Computing & Big Data   | Advanced Spoken Language Processing   |
+
+
 
 Education
 ======
