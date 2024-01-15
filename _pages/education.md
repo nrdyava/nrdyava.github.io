@@ -27,8 +27,7 @@ redirect_from:
 Thesis: Pattern Mining to Identify Front Runners in Securities Markets
 ### Coursework
 
-| Fall 2023 | Spring 2024 |
-|--------|:-------:|
+|:--------:|:-------:|
 | Algorithms   | Reinforcement Learning  |
 | Databases   | Computer Vision 2   |
 | Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
