@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-| Programming in C   | Probability, Statistics & Stochastic Process  |  Operations Research  |
-| Deep Learning   | Differential Equations   |  Principles of Economics  |
-| Pattern Recognition & Machine Learning   | Series & Matrices   |  Microeconomics  |
-| Concepts in Statistical Learning Theory   | Functions of Several Variables   |  Data Analytics  |
-| Big Data Lab   | Statistical Design & Analysis of Experiments   |  Data Analytics Lab  |
-|    | Mathematical Foundations of Data Science	   |    |
+| Programming Languages | C++, Python, JavaScript, Java, SQL, MATLAB, HTML, LaTeX |
+| Databases | MySQL, MongoDB, Neo4j, InfluxDB |
+| Frameworks/Libraries | PyTorch, TensorFlow, Flask, Dask, Node.js, Scikit-learn, Scipy, NumPy, Pandas, NLTK, OpenCV |
+| Technologies | AWS, GCP, Kubernetes, Docker, Spark, Kafka, Git, OpenSearch, AWS DynamoDB, AWS Lex, AWS API Gateway |
 
