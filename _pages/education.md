@@ -18,7 +18,7 @@ redirect_from:
 | Algorithms   | Reinforcement Learning  |
 | Databases   | Computer Vision 2   |
 | Natural Language Processing   | Advanced Topics Projects in Deep Learning   |
-| Cloud Computing & Big Data   | Advanced Topics in Spoken Language Processing   |
+| Cloud Computing & Big Data   | High Performance Machine Learning   |
 
 
 
