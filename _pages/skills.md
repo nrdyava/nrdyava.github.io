@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-| Programming Languages | C++, Python, JavaScript, Java, SQL, MATLAB, HTML, LaTeX |
+| Programming Languages | C++, Python, JavaScript, SQL, MATLAB, HTML, LaTeX |
 | Databases | MySQL, MongoDB, Neo4j, InfluxDB |
 | Frameworks/Libraries | PyTorch, TensorFlow, Flask, Dask, Node.js, Scikit-learn, Scipy, NumPy, Pandas, NLTK, OpenCV |
 | Technologies | AWS, GCP, Kubernetes, Docker, Spark, Kafka, Git, OpenSearch, AWS DynamoDB, AWS Lex, AWS API Gateway |
