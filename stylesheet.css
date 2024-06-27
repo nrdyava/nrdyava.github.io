@@ -94,6 +94,11 @@ h2 {
   font-weight: normal;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
+  scroll-margin-top: px;
+}
+
+h1 {
+  scroll-margin-top: 200px;
 }
 
 .papertitle {
@@ -132,4 +137,31 @@ h2 {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+.ribbon {
+  background-color: #333;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.ribbon button {
+  background-color: #555;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.ribbon button:hover {
+  background-color: #777;
 }
